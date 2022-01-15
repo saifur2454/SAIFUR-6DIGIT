@@ -12,9 +12,9 @@ $ pip2 install requests mechanize
 
 $ git clone https://github.com/saifur2454/SAIFUR-6DIGIT.git
 
-$ cd SR-6DIGIT
+$ cd SAIFUR-6DIGIT
 
-$ python2 SR-6DIGIT.py
+$ python2 SAIFUR-6DIGIT.py
 
 # FREE TOOLS
 
